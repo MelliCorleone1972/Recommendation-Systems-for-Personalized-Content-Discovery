@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Data files
+netflix-prize-data/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
